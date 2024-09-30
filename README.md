@@ -116,6 +116,7 @@ AWESOME EMAILS ✉ ✨
 
 ## Self-Hosted Services
 
+- [Cloud Seeder](https://ipv6.rs/cloudseeder) - 1-click Install and Upgrade a Postfix+Dovecot or Stalwart mail server instance, hands free.
 - [iRedMail](https://iredmail.org/) - Easy to install open source mail server solution.
 - [Mail-in-a-box](https://mailinabox.email/) - Lets you become your own mail service provider in a few easy steps.
 - [Mailcow](https://mailcow.email/) - The mailserver suite with the 'moo'. An easy to use dockerized selfhosted email solution.
