@@ -96,6 +96,7 @@ AWESOME EMAILS ✉ ✨
 
 ## Services
 
+- [Resend](https://resend.com/) - Build, test, and send transactional emails at scale.
 - [EmailOctopus](https://emailoctopus.com) - Email marketing made easy.
 - [Mailchimp](https://mailchimp.com/) - MailChimp provides email marketing for more than 15 million people globally.
 - [Mailjet](https://mailjet.com/) - all-in-one Email Services Provider that allows businesses to send Marketing, Transaction Email and Email Automation.
@@ -156,10 +157,6 @@ AWESOME EMAILS ✉ ✨
 - [Build Better Blog](https://blocksedit.com/content-code/) - Design and content production in email marketing.
 - [Email Design Blog](https://designmodo.com/design/email-design/) - Articles, tutorial, inspiration for all email geeks.
 
-## Copy
-
-- [Email Copy](http://www.goodemailcopy.com/) - Email copy from great companies.
-
 ## Resources
 
 - [Email marketing regulations](https://github.com/threeheartsdigital/email-marketing-regulations) - A guide to email marketing regulations around the world.
@@ -174,11 +171,12 @@ AWESOME EMAILS ✉ ✨
 
 ## Inspirations
 
+- [Email Copy](http://www.goodemailcopy.com/) - Email copy from great companies.
 - [Really good emails Codepen](http://codepen.io/reallygoodemails/)
 - [Really good emails](http://reallygoodemails.com/) - The Best Email Designs in the Universe.
-- [TidyMails](http://tidymails.com/) -The Email Newsletters' Universe.
+- [TidyMails](http://tidymails.com/) - The Email Newsletters' Universe.
 - [Milled](http://milled.com/)
-- [The Top Email Campaigns](https://www.campaignmonitor.com/best-email-marketing-campaigns/) -The most effective email marketing campaigns from Campaign Monitor.
+- [The Top Email Campaigns](https://www.campaignmonitor.com/best-email-marketing-campaigns/) - The most effective email marketing campaigns from Campaign Monitor.
 - [Htmlemaildesigns](http://htmlemaildesigns.com/) - Beautiful emails to help inspire your next email design.
 - [WhoSentWhat](http://whosentwhat.com) - We bring email newsletters from inbox to web
 
