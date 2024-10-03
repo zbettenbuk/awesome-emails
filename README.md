@@ -115,6 +115,7 @@ AWESOME EMAILS ✉ ✨
 - [Forward Email](https://forwardemail.net) - The 100% open-source and privacy-focused email service.
 - [Campaign Cleaner](https://campaigncleaner.com) - The Ultimate Tool for Optimized, High-Performance Email Campaigns.
 - [ForwardMX](https://forwardmx.net) - Premium email forwarding for your domain name.
+- [Heybounce](https://www.heybounce.io) - Email verification service that checks if an email exists and detects disposable emails.
 
 ## Self-Hosted Services
 
